@@ -107,16 +107,6 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=lethanhdatphumy&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
 ## 👨‍💻 Leadership & Experience
 
 <div align="center">
@@ -134,7 +124,21 @@ me.say_hi()
 
 <div align="center">
 
-[![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Mathematics_for_ML:_Calculus_&_Linear_Algebra-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.deeplearning.ai/)
+### 🎓 AI Vietnam - AIO2025
+
+![Progress](https://img.shields.io/badge/Progress-50%25-blue?style=for-the-badge)
+
+| Module | Score | Certificate |
+|:-------|:-----:|:-----------:|
+| Module 1 | 310/400 | [🔗 Verify](https://lms.aivietnam.edu.vn/verification/accomplishments/26429250) |
+| Module 2 | 890/1020 | [🔗 Verify](https://lms.aivietnam.edu.vn/verification/accomplishments/95192781) |
+| Module 3 | 690/1000 | [🔗 Verify](https://lms.aivietnam.edu.vn/verification/accomplishments/91388103) |
+| Module 4 | 805/1000 | [🔗 Verify](https://lms.aivietnam.edu.vn/verification/accomplishments/39850807) |
+| Module 5 | 930/1000 | [🔗 Verify](https://lms.aivietnam.edu.vn/verification/accomplishments/68163972) |
+
+### 🎓 DeepLearning.AI
+
+[![DeepLearning.AI](https://img.shields.io/badge/Mathematics_for_ML:_Calculus_&_Linear_Algebra-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.deeplearning.ai/)
 
 </div>
 
