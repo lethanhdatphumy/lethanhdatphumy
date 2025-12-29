@@ -57,6 +57,7 @@ me.say_hi()
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -72,17 +73,17 @@ me.say_hi()
 
 | 🏥 Clinical Diagnosis RAG | 🍹 Cocktail Rec Engine |
 |:---:|:---:|
-| ![RAG](https://img.shields.io/badge/Accuracy-93%25-brightgreen?style=flat-square) | ![NLP](https://img.shields.io/badge/Semantic-Search-blue?style=flat-square) |
+| ![RAG](https://img.shields.io/badge/Accuracy-93%25-brightgreen?style=flat-square) ![Keywords](https://img.shields.io/badge/Keyword_Match-73.1%25-blue?style=flat-square) | ![NLP](https://img.shields.io/badge/Semantic-Search-blue?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-Reranking-purple?style=flat-square) |
 | End-to-end RAG pipeline for 14 tropical diseases using Gemini & LangChain | Semantic search with pgvector & LLM re-ranking |
-| `LangChain` `FAISS` `DVC` `AWS S3` | `FastAPI` `pgvector` `Docker` |
-| [🔗 View Project](https://github.com/lethanhdatphumy/clinical-rag) | [🔗 View Project](https://github.com/lethanhdatphumy/cocktail-rec) |
+| `LangChain` `FAISS` `DVC` `AWS S3` `Streamlit` | `FastAPI` `pgvector` `Docker` `SentenceTransformers` |
+| [🔗 View Project](https://github.com/lethanhdatphumy/RAG-Clinical-Diagnosis) | [🔗 View Project](https://github.com/lethanhdatphumy/Cocktail-Recommendation-System) |
 
 | 🌐 IoT Virtual Device System | 🍔 Campus Food Delivery |
 |:---:|:---:|
-| ![IoT](https://img.shields.io/badge/Azure-IoT-0078D4?style=flat-square) | ![Spring](https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=flat-square) |
-| Industrial IoT simulation with Azure telemetry | Secure backend with JWT & AWS S3 integration |
-| `Python` `Counterfit` `Azure IoT Hub` | `Spring Boot 3` `Hibernate` `AWS S3` |
-| [🔗 View Project](https://github.com/lethanhdatphumy/iot-system) | [🔗 View Project](https://github.com/lethanhdatphumy/food-delivery) |
+| ![IoT](https://img.shields.io/badge/Azure-IoT_Hub-0078D4?style=flat-square) ![MQTT](https://img.shields.io/badge/MQTT-Telemetry-660066?style=flat-square) | ![Spring](https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square) |
+| Industrial IoT simulation with Azure telemetry & Device Twin sync | Secure backend with JWT auth & AWS S3 integration |
+| `Python` `Counterfit` `Azure IoT Hub` `MQTT` | `Spring Boot 3` `Hibernate Envers` `AWS S3` `Liquibase` |
+| [🔗 View Project](https://github.com/DatdyDark/Fruit_quality_detector) | [🔗 View Project](https://github.com/hovietbach061204/VGU-Campus-Food-Delivery) |
 
 </div>
 
@@ -105,13 +106,34 @@ me.say_hi()
 
 ---
 
+## 🏆 Achievements
 
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=lethanhdatphumy&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 👨‍💻 Leadership & Experience
+
+<div align="center">
+
+| Role | Organization | Highlights |
+|:---:|:---:|:---|
+| **Team Lead** | Graduate OOD Game Project @ Northeastern | Led 5-member agile team · SOLID principles · Zero critical bugs |
+| **Founder & Lead** | DSA Study Group @ HCMC | Mentored by Senior Microsoft Engineer · Improved problem-solving speed by 40% |
+
+</div>
+
+---
 
 ## 📜 Certifications
 
 <div align="center">
 
-![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Mathematics_for_ML-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+[![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Mathematics_for_ML:_Calculus_&_Linear_Algebra-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.deeplearning.ai/)
 
 </div>
 
@@ -124,6 +146,8 @@ me.say_hi()
 *I'm always open to interesting conversations and collaboration opportunities.*
 
 **📍 Boston, MA | 🇻🇳 Ho Chi Minh City**
+
+📞 +84 329 951 538 (VN) | +1 857 339 6104 (US)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
