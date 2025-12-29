@@ -105,15 +105,7 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements
 
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=lethanhdatphumy&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
 
 ## 📜 Certifications
 
